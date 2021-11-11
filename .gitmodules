@@ -1,3 +1,6 @@
 [submodule "sub2"]
 	path = sub2
 	url = https://github.com/guan78001/test_sub2.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/guan78001/test_sub2.git
